@@ -1,4 +1,4 @@
-# Minicurso-GC
+# Minicurso de Geração de Colunas
 
 Material de associados ao curso "Implementação de geração de colunas usando CPLEX em linguagem C/C++"
 Universidade de São Paulo.
