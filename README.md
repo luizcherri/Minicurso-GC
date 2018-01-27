@@ -9,6 +9,6 @@ Para quem deseja inicialmente ter uma noço basica da técnica de geração de c
 No decorrer do curso alguns itens serão inseridos neste repositório.
 
 
-Autores:
 
+## Autores: 
 Landir Saviniec e Luiz Henrique Cherri
