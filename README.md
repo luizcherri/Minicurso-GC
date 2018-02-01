@@ -17,13 +17,13 @@ Para os usuários de Linux, disponibilizamos um arquivo de compilação (makefil
 
 Os seguintes arquivos estão disponíveis neste repositório 
 
-Apresentacao.pdf  - contêm  os slides do curso.
+Apresentacao.pdf - contêm  os slides do curso.
 
-framework.cpp     - código do  framework implementado durante o curso com comentários adicionais.
+framework.cpp - código do  framework implementado durante o curso com comentários adicionais.
 
-pdl.zip           - resolução do problema de dimensionamento de lotes via geração de colunas (utilizando o framework).
+pdl.zip - resolução do problema de dimensionamento de lotes via geração de colunas (utilizando o framework).
 
-pcu.zip           - resolução do problema de corte unidimensional via geração de colunas (utilizando o framework).
+pcu.zip - resolução do problema de corte unidimensional via geração de colunas (utilizando o framework).
 
 
 
