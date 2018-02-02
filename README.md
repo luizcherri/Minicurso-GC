@@ -25,7 +25,9 @@ pdl.zip - resolução do problema de dimensionamento de lotes via geração de c
 
 pcu.zip - resolução do problema de corte unidimensional via geração de colunas (utilizando o framework).
 
+---
 
+No link https://goo.gl/G5CQvY é possível a estrutura com as classes e métodos do CPLEX. 
 
 
 
