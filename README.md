@@ -1,5 +1,10 @@
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `# tenção!`
+# Atenção!
 
+### Uma versão mais atualizada deste material pode ser encontrada no seguinte repositório:
+
+#### https://github.com/lansaviniec/MinicursoGeracaoDeColunas
+
+------
 
 
 # Minicurso de Geração de Colunas
