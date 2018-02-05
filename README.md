@@ -1,3 +1,7 @@
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `# tenção!`
+
+
+
 # Minicurso de Geração de Colunas
 
 Material de associados ao curso "Implementação de geração de colunas usando CPLEX em linguagem C/C++"
